@@ -34,10 +34,10 @@ class MainWindow(QMainWindow):
         self.horizontalLayout.setObjectName("horizontalLayout")
         self.treeWidget = tree_widget.TreeWidget(self.centralwidget)
 
+
         self.horizontalLayout.addWidget(self.treeWidget)
         self.tabWidget = QtWidgets.QTabWidget(self.centralwidget)
         self.tabWidget.setObjectName("tabWidget")
-
         self.tab_2d_map = Tab2DMap()
         self.tab_2d_map.setObjectName("tab_2d_map")
         self.tabWidget.addTab(self.tab_2d_map, "")

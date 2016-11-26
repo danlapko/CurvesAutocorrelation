@@ -20033,3 +20033,16 @@
 [tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
 [tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
 [main.py       17                      <module>()]# INFO       end main
+[main.py       10                      <module>()]# INFO       begin main
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
+[tree_widget.py 135                 check_changed()]# DEBUG      type="wells_dir"  name="root  signal=2"
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = [('805', 530532.94313, 6438557.0158), ('806', 531436.67892, 6439563.1963), ('807', 530046.36619, 6439644.0473), ('808', 529756.49754, 6439137.621), ('809', 533368.85491, 6439323.5584)]
+[tree_widget.py 135                 check_changed()]# DEBUG      type="curve"  name="SP  signal=2"
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = [('805', 530532.94313, 6438557.0158), ('806', 531436.67892, 6439563.1963), ('807', 530046.36619, 6439644.0473), ('808', 529756.49754, 6439137.621), ('809', 533368.85491, 6439323.5584)]
+[main.py       17                      <module>()]# INFO       end main
+[main.py       10                      <module>()]# INFO       begin main
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
+[tab_2d_map.py  40                       refresh()]# DEBUG      (fileName, x, y) = []
+[main.py       17                      <module>()]# INFO       end main
